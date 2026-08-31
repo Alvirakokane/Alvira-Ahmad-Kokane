@@ -1,79 +1,86 @@
-# Alvira Ahmad Kokane
+# Alvira Kokane
 
-**Computer Engineering Student | Artificial Intelligence | Data Science | Machine Learning**
+### AI & Data Science | Machine Learning | Computer Engineering
 
-Computer Engineering student focused on building practical solutions across
-Artificial Intelligence, Data Science, Machine Learning, and software development.
-My technical interests include data-driven problem solving, intelligent systems,
-and developing applications that solve real-world problems.
+Computer Engineering student focused on Artificial Intelligence, Data Science,
+Machine Learning, and Data Analytics.
 
-## Profile
+I build practical software projects and explore data-driven approaches to
+solving real-world problems.
 
-- Computer Engineering student
-- Focused on Artificial Intelligence and Data Science
-- Interested in Machine Learning and Data Analytics
-- Experience with Python, C++, Java, and C
-- Interested in software development and UI/UX
-- Building projects to apply technical concepts to real-world problems
+---
 
-## Technical Skills
+## AI & Data Science
 
-**Programming**  
-Python · C++ · Java · C
+**Artificial Intelligence** · **Machine Learning** · **Data Science** · **Data Analytics** · **Data Visualization**
 
-**Artificial Intelligence & Data Science**  
-Machine Learning · Data Analysis · Data Visualization · Artificial Intelligence
+---
 
-**Development Tools**  
-Git · GitHub · VS Code
+## Tech Stack
 
-**Design**  
-Figma · UI/UX Design
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ## Areas of Focus
 
-Artificial Intelligence  
-Data Science  
-Machine Learning  
-Data Analytics  
-Software Development  
-Intelligent Systems
+| Area | Focus |
+| --- | --- |
+| Artificial Intelligence | Intelligent systems and AI applications |
+| Data Science | Data analysis and data-driven solutions |
+| Machine Learning | Model development and experimentation |
+| Data Analytics | Insights, visualization and decision making |
+| Software Development | Practical and scalable applications |
+| UI/UX | User-focused digital experiences |
 
-# Selected Work
+---
 
-# Smart Noise Violation Detection System
+## Featured Projects
 
-A technology project focused on detecting vehicle noise violations,
-capturing relevant vehicle information, maintaining violation records,
-and supporting an automated warning and penalty workflow.
+### Smart Noise Violation Detection System
 
-**Focus:** Python · Computer Vision · OCR · Database Systems · IoT
+An intelligent system designed to detect vehicle noise violations,
+capture vehicle information, maintain violation records, and support
+an automated warning and penalty workflow.
+
+**Technologies:** Python · OCR · Computer Vision · Database · IoT
 
 ### Velixa
 
-A Python-based application project focused on developing a modern,
-practical software solution with a structured backend architecture.
+A Python-based application project focused on building a modern software
+solution with a structured backend architecture.
 
-**Focus:** Python · FastAPI · Application Development
+**Technologies:** Python · FastAPI · Backend Development
 
-## Currently Exploring
+---
 
-Artificial Intelligence  
-Machine Learning  
-Data Science  
-Data Analytics  
-Advanced Python  
-C++
-  
+## Currently Learning
 
-## Objective
+**Artificial Intelligence · Machine Learning · Data Science · Data Analytics · C++**
 
-To build reliable, scalable, and practical technology solutions by combining
-software engineering with artificial intelligence and data-driven approaches.
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvirakokane&show_icons=true&hide_border=true&rank_icon=github)
 
 ---
 
 ## Connect
 
-Open to learning, collaboration, internships, and opportunities in
-Artificial Intelligence, Data Science, Software Development, and related fields.
+Interested in Artificial Intelligence, Data Science, software development,
+and technology projects.
+
+Open to learning, collaboration, internships, and opportunities.
